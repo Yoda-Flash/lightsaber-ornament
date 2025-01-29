@@ -3,6 +3,8 @@ A lightsaber ornament made for Hack Club's Hacky Holidays!
 
 At first, I wanted to make a Yoda ornament PCB, but I realized that it would only look good with green colored lights. Upon further thought, I realized that Lightsabers would look good in nearly any color, which made it perfect as an ornament. Hence, I decided to make this lightsaber ornament PCB, to bring joy to all Star Wars lovers during the holidays!
 
+A simulation of it can be found here: https://wokwi.com/projects/421435412428006401
+
 ### 3D Views
 #### Front
 ![image](https://github.com/user-attachments/assets/7aec5a90-34e4-4acf-8f32-b5ce909ee5de)
